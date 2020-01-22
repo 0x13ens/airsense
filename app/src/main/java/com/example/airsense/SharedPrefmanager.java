@@ -9,7 +9,7 @@ import android.content.SharedPreferences;
 public class SharedPrefmanager {
 
     //the constants
-    private static final String SHARED_PREF_NAME = "simplifiedcodingsharedpref";
+    private static final String SHARED_PREF_NAME = "airsense";
     private static final String KEY_NAME = "keyname";
     private static final String KEY_EMAIL = "keyemail";
     private static final String KEY_ID = "keyid";
